@@ -1,0 +1,16 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+primary_culture = icelandic
+religion = norse_pagan_reformed
+technology_group = western
+capital = 328
+
+1444.1.1 = {
+	monarch = {
+		name = "Viktor Trask"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

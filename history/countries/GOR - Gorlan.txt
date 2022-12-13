@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+technology_group = western
+government_rank = 1
+primary_culture = english
+religion = catholic
+capital = 44
+
+1444.1.1 = { 
+	monarch = {
+		name = "Morgarath I"
+		dynasty = "of Gorlan"
+		birth_date = 1421.12.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = galician
+religion = catholic
+technology_group = western
+capital = 75
+
+1444.1.1 = {
+	monarch = {
+		name = "Doran"
+		dynasty = "Martell"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

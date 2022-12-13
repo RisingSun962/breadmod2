@@ -1,0 +1,24 @@
+#Wales
+223 = "Môn"
+224 = "Gaernarfon"
+225 = "Meirionnydd"
+226 = "Ddinbych"
+227 = "Drefaldwyn"
+228 = "Faesyfed"
+229 = "Ceredigion"
+230 = "Benfro"
+231 = "Gaerfyrddin"
+232 = "Frycheiniog"
+233 = "Morgannwg"
+234 = "Fynwy"
+
+#Cornwall
+253 = "Kernow Est"
+254 = "Dewnens"
+255 = "Carduara"
+256 = "Kernow West"
+
+#England
+257 = "Durotriges"
+258 = "Stradneth"
+259 = "Abona"

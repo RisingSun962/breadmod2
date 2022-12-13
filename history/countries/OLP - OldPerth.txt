@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = scottish
+religion = catholic
+technology_group = western
+capital = 328
+
+1444.1.1 = {
+	monarch = {
+		name = "Andrew I"
+		dynasty = Stuart
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

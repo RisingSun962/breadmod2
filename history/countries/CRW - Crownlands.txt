@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 2
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 107
+
+1444.1.1 = { 
+	monarch = {
+		name = "Robert I"
+		dynasty = "Baratheon"
+		birth_date = 1421.12.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,16 @@
+#Wales
+223 = "Môn"
+224 = "Gaernarfon"
+225 = "Meirionnydd"
+226 = "Ddinbych"
+227 = "Drefaldwyn"
+228 = "Faesyfed"
+229 = "Ceredigion"
+230 = "Benfro"
+231 = "Gaerfyrddin"
+232 = "Frycheiniog"
+233 = "Morgannwg"
+234 = "Fynwy"
+
+#Uhhh
+1987 = { "New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" "New Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch" } #Society Islands

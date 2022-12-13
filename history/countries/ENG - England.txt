@@ -1,0 +1,26 @@
+government = monarchy
+add_government_reform = english_monarchy
+mercantilism = 25
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 269
+national_focus = DIP
+
+change_estate_land_share = { #compensates for lack of nobles, distributes 20 between the remaining estates
+	estate = all
+	share = 20
+}
+
+
+1444.1.1 = { 
+	monarch = {
+		name = "Elizabeth II"
+		female = yes
+		dynasty = "Windsor"
+		birth_date = 1421.12.6
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

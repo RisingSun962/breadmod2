@@ -1,0 +1,13 @@
+add_core = SON
+owner = SON
+controller = SON
+culture = icelandic
+religion = norse_pagan_reformed
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Castle Araluen"
+is_city = yes
+discovered_by = western

@@ -1,0 +1,14 @@
+add_core = NWT
+owner = NWT
+controller = NWT
+culture = english
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+capital = "Castle Araluen"
+is_city = yes
+discovered_by = western
+fort_15th = yes

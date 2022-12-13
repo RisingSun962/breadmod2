@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+primary_culture = english
+religion = catholic
+capital = 287
+
+1444.1.1 = {
+	monarch = {
+		name = "Tommy I"
+		dynasty = "Innit"
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
