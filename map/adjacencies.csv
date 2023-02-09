@@ -33,6 +33,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 248;249;sea;1287;-1;-1;-1;-1;delting-north_shetland_islands
 364;265;sea;1278;-1;-1;-1;-1;alderney-east_sussex
 370;367;sea;1295;-1;-1;-1;-1;jalkerk-skorghijl
+366;380;sea;1278;-1;-1;-1;-1;jersey-cherbourg
 1268;1258;canal;1775;-1;-1;-1;-1;kiel_canal
 1548;1515;canal;835;-1;-1;-1;-1;panama_canal
 1328;1316;canal;4316;-1;-1;-1;-1;suez_canal

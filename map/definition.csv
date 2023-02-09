@@ -377,15 +377,15 @@ province;red;green;blue;x;x
 376;53;144;64;Malinosk;x
 377;181;146;128;Markalberg;x
 378;54;148;192;Koldammer;x
-379;182;150;255;Jerusalem;x
-380;54;152;0;Al Karak;x
-381;182;154;64;Ajlun;x
-382;54;156;128;Damascus;x
-383;182;158;192;Tabuk;x
-384;54;32;255;Medina;x
-385;183;34;0;Mecca;x
-386;55;36;64;Bishah;x
-387;183;38;128;Mokha;x
+379;182;150;255;Rizzel;x
+380;54;152;0;Cherbourg;x
+381;182;154;64;StMereEglise;x
+382;54;156;128;Carentan;x
+383;182;158;192;Breville;x
+384;54;32;255;Dieppe;x
+385;183;34;0;Caen;x
+386;55;36;64;StLo;x
+387;183;38;128;Granville;x
 388;55;40;192;Aden;x
 389;183;42;255;Mukalla;x
 390;55;44;0;Sana'a;x
