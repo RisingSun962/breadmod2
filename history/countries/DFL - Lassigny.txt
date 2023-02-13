@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = occitain
+religion = catholic
+technology_group = western
+capital = 389
+
+1444.1.1 = {
+	monarch = {
+		name = "Greg I"
+		dynasty = "de Lassigny"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

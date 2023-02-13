@@ -79,8 +79,12 @@ KRL = "countries/Karelia.txt"
 ICE = "countries/Iceland.txt"
 
 #France 
+ANO = "countries/Anon.txt"
+GLC = "countries/Gallica.txt"
+DFL = "countries/Lassigny.txt"
 NRM	= "countries/Normandy.txt"
 RZL = "countries/Rizzlerz.txt"
+RMB = "countries/Rumblerz.txt"
 ALE = "countries/Alencon.txt"
 ALS	= "countries/Alsace.txt"
 AMG	= "countries/Armagnac.txt"

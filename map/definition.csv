@@ -386,17 +386,17 @@ province;red;green;blue;x;x
 385;183;34;0;Caen;x
 386;55;36;64;StLo;x
 387;183;38;128;Granville;x
-388;55;40;192;Aden;x
-389;183;42;255;Mukalla;x
-390;55;44;0;Sana'a;x
-391;183;46;64;Najran;x
-392;56;48;128;Al-Arid;x
-393;184;50;192;Jabal Shammar;x
-394;56;52;255;El Catif;x
-395;184;54;0;Qatar;x
-396;56;56;64;Bahrain;x
-397;184;58;128;Bani Yas;x
-398;56;60;192;Qawasim;x
+388;55;40;192;LaRivage;x
+389;183;42;255;LaFalaise;x
+390;55;44;0;Vitol;x
+391;183;46;64;Horsemarche;x
+392;56;48;128;Negestique;x
+393;184;50;192;Flodeaux;x
+394;56;52;255;Shepmont;x
+395;184;54;0;FarteSurMique;x
+396;56;56;64;Unirigineaux;x
+397;184;58;128;Brittany;x
+398;56;60;192;Rumbeleux;x
 399;185;62;255;Suhar;x
 400;57;64;0;Muscat;x
 401;185;66;64;Dhofar;x
@@ -1297,10 +1297,10 @@ province;red;green;blue;x;x
 1296;47;220;250;GreyCoast;x
 1297;48;250;250;Limfjord;x
 1298;49;200;200;MouthOfTheFissure;x
-1299;50;200;250;Shetland Straits;x
-1300;51;220;250;Western Mediterranean;x
-1301;52;250;250;Barbary Coast;x
-1302;53;200;200;Cape Bon;x
+1299;50;200;250;MontSaintMichelBay;x
+1300;51;220;250;SeaOfJreg;x
+1301;52;250;250;AnonianCoast;x
+1302;53;200;200;JregorianChannel;x
 1303;54;200;250;Tyrrenean Sea;x
 1304;55;220;250;Bay of Naples;x
 1305;56;250;250;Gulf of Gabes;x
